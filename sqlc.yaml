@@ -21,7 +21,7 @@ cloud:
   hostname: ""
 
 servers: []
-overrides: []
+overrides: {}
 plugins: []
 rules: []
 options: {}
